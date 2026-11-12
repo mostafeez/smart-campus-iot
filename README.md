@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Academic%20Prototype-teal)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
@@ -218,9 +217,7 @@ Pull requests are welcome for bug fixes, accessibility improvements, tests and c
 4. Run `pytest -q`.
 5. Open a pull request describing the change and any hardware assumptions.
 
-## License
 
-Released under the MIT License. See [`LICENSE`](LICENSE).
 
 ## Acknowledgement
 
