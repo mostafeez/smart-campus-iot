@@ -103,7 +103,7 @@ smart-campus-iot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-campus-iot.git
+git clone https://github.com/mostafezz/smart-campus-iot.git
 cd smart-campus-iot
 ```
 
