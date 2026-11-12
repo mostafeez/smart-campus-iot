@@ -1,4 +1,4 @@
-# 🏙️ Smart Campus IoT — AI-Powered Campus Intelligence Platform
+# 🏙️ Smart Campus IoT. AI-Powered Campus Intelligence Platform
 
 > A professional academic prototype for intelligent classroom automation, campus energy analytics, smart parking and safety/access monitoring.
 
